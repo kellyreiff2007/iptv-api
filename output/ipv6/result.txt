@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-24 07:20:33,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-07-01 07:21:35,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -13,8 +13,8 @@ CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99$订阅�
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB$订阅源
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=cctv14$订阅源
@@ -78,13 +78,12 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV-4$订阅源
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k$订阅源
 翡翠台,https://cdn6.163189.xyz/163189/fct$订阅源
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/$订阅源
 翡翠台,http://r.jdshipin.com/thuYX$订阅源
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/$订阅源
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/$订阅源
 明珠台,http://r.jdshipin.com/ZQ4kN$订阅源
-明珠台,http://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/$订阅源
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw$订阅源
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx$订阅源
@@ -101,8 +100,8 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2$订阅源
 CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
-天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,http://o11.163189.xyz/stream/live/ccm/$订阅源
+天映经典,https://o11.163189.xyz/stream/live/ccm/$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
 无线星河,https://cdn6.163189.xyz/163189/tvbxh$订阅源
 
