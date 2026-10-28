@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-10-21 08:34:31,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+2026-10-28 09:08:46,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 
 📺央视频道,#genre#
+CCTV-5+,https://php.jdshipin.com/TVOD/iptv.php$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
@@ -9,7 +10,6 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 
 💰央视付费频道,#genre#
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8$订阅源
-第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8$订阅源
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 
@@ -43,7 +43,6 @@ Viutv,http://r.jdshipin.com/vSJvl$订阅源
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.ottiptv.cc/huya/26355790$订阅源
-笑傲江湖,https://live.metshop.top/huya/26355790$订阅源
 仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903$订阅源
 水浒传,https://live.ottiptv.cc/yy/1353873252$订阅源
 新白娘子传奇,https://live.ottiptv.cc/yy/1354490667$订阅源
